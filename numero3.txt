@@ -1,0 +1,4 @@
+Para dificultar a decodificação, seria interessante realizar mais operações, ou seja, mais rotações, 
+permitindo que o processo de "quebrar o hash" à força seja mais difícil. 
+Outro método é usar o salt, que é um valor aleatório adicionado à senha antes de ser processada pelo SHA-256, 
+dificultando ainda mais a decodificação.
